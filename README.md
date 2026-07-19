@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/d1e1v1234-dev/Leet/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/d1e1v1234-dev/Leet/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/d1e1v1234-dev/Leet/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/d1e1v1234-dev/Leet/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/d1e1v1234-dev/Leet/tree/master/0994-rotting-oranges) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/d1e1v1234-dev/Leet/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/d1e1v1234-dev/Leet/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/d1e1v1234-dev/Leet/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/d1e1v1234-dev/Leet/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/d1e1v1234-dev/Leet/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/d1e1v1234-dev/Leet/tree/master/0733-flood-fill) |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/d1e1v1234-dev/Leet/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/d1e1v1234-dev/Leet/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/d1e1v1234-dev/Leet/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/d1e1v1234-dev/Leet/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/d1e1v1234-dev/Leet/tree/master/0994-rotting-oranges) |
@@ -34,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/d1e1v1234-dev/Leet/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/d1e1v1234-dev/Leet/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/d1e1v1234-dev/Leet/tree/master/0207-course-schedule) |
 | [0733-flood-fill](https://github.com/d1e1v1234-dev/Leet/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/d1e1v1234-dev/Leet/tree/master/1020-number-of-enclaves) |
@@ -53,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/d1e1v1234-dev/Leet/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/d1e1v1234-dev/Leet/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/d1e1v1234-dev/Leet/tree/master/1020-number-of-enclaves) |
 ## Hash Table
 |  |
