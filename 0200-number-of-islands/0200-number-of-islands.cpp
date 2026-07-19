@@ -4,7 +4,7 @@ public:
     {
         int m = grid.size();
         int n = grid[0].size();
-        vector<pair<int,int>> cord;
+        // vector<pair<int,int>> cord;
         int ans =0;
         for(int i=0;i<m;i++)
         {
@@ -12,20 +12,13 @@ public:
             {
                 if(grid[i][j]== '1')
                 {
-                    cord.push_back({i,j});
+                    grid[i][j] = '0';
+                    ans++;
+                    dfs(grid,i,j);
                 }
             }
         }    
-        vector<vector<int>> vis( m,vector<int>(n,0));
-        for(int i=0;i<cord.size();i++)
-        {
-            int x = cord[i].first;
-            int y = cord[i].second;
-            if(vis[x][y]) continue;
-            ans++;
-            vis[x][y] = 1;
-            dfs(grid,x,y,vis);
-        }
+        // vector<vector<int>> vis( m,vector<int>(n,0));
         return ans;
     }
     vector<pair<int,int>> dir = {
@@ -34,7 +27,7 @@ public:
         {0,-1},
         {0,1}
     };
-    void dfs(vector<vector<char>>& grid , int i , int j , vector<vector<int>>& vis)
+    void dfs(vector<vector<char>>& grid , int i , int j )
     {
         int n = grid.size();
         int m = grid[0].size();
@@ -43,10 +36,10 @@ public:
             int nx = i + d.first;
             int ny = j + d.second;
 
-            if(nx>=0 && nx<n && ny>=0 && ny<m && grid[nx][ny]== '1' && vis[nx][ny] == 0)
+            if(nx>=0 && nx<n && ny>=0 && ny<m && grid[nx][ny]== '1')
             {
-                vis[nx][ny] =1;
-                dfs(grid,nx,ny,vis);
+                grid[nx][ny] ='0';
+                dfs(grid,nx,ny);
             }
         }
     }
