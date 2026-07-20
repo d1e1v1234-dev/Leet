@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/d1e1v1234-dev/Leet/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/d1e1v1234-dev/Leet/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/d1e1v1234-dev/Leet/tree/master/1020-number-of-enclaves) |
+| [1260-shift-2d-grid](https://github.com/d1e1v1234-dev/Leet/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/d1e1v1234-dev/Leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Breadth-First Search
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/d1e1v1234-dev/Leet/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/d1e1v1234-dev/Leet/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/d1e1v1234-dev/Leet/tree/master/1020-number-of-enclaves) |
+| [1260-shift-2d-grid](https://github.com/d1e1v1234-dev/Leet/tree/master/1260-shift-2d-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/d1e1v1234-dev/Leet/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/d1e1v1234-dev/Leet/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
