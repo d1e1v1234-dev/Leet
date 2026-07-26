@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/d1e1v1234-dev/Leet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/d1e1v1234-dev/Leet/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/d1e1v1234-dev/Leet/tree/master/0542-01-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/d1e1v1234-dev/Leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/d1e1v1234-dev/Leet/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/d1e1v1234-dev/Leet/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/d1e1v1234-dev/Leet/tree/master/1020-number-of-enclaves) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/d1e1v1234-dev/Leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/d1e1v1234-dev/Leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/d1e1v1234-dev/Leet/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/d1e1v1234-dev/Leet/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -135,5 +137,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/d1e1v1234-dev/Leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/d1e1v1234-dev/Leet/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
