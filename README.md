@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/d1e1v1234-dev/Leet/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/d1e1v1234-dev/Leet/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/d1e1v1234-dev/Leet/tree/master/0628-maximum-product-of-three-numbers) |
+| [0721-accounts-merge](https://github.com/d1e1v1234-dev/Leet/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/d1e1v1234-dev/Leet/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/d1e1v1234-dev/Leet/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/d1e1v1234-dev/Leet/tree/master/1020-number-of-enclaves) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/d1e1v1234-dev/Leet/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/d1e1v1234-dev/Leet/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/d1e1v1234-dev/Leet/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/d1e1v1234-dev/Leet/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/d1e1v1234-dev/Leet/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/d1e1v1234-dev/Leet/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/d1e1v1234-dev/Leet/tree/master/0785-is-graph-bipartite) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/d1e1v1234-dev/Leet/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/d1e1v1234-dev/Leet/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/d1e1v1234-dev/Leet/tree/master/0210-course-schedule-ii) |
+| [0721-accounts-merge](https://github.com/d1e1v1234-dev/Leet/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/d1e1v1234-dev/Leet/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/d1e1v1234-dev/Leet/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/d1e1v1234-dev/Leet/tree/master/0785-is-graph-bipartite) |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/d1e1v1234-dev/Leet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/d1e1v1234-dev/Leet/tree/master/0200-number-of-islands) |
+| [0721-accounts-merge](https://github.com/d1e1v1234-dev/Leet/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/d1e1v1234-dev/Leet/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/d1e1v1234-dev/Leet/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/d1e1v1234-dev/Leet/tree/master/1020-number-of-enclaves) |
@@ -108,11 +112,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/d1e1v1234-dev/Leet/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/d1e1v1234-dev/Leet/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/d1e1v1234-dev/Leet/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## String
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/d1e1v1234-dev/Leet/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/d1e1v1234-dev/Leet/tree/master/0721-accounts-merge) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/d1e1v1234-dev/Leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/d1e1v1234-dev/Leet/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
@@ -163,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/d1e1v1234-dev/Leet/tree/master/0628-maximum-product-of-three-numbers) |
+| [0721-accounts-merge](https://github.com/d1e1v1234-dev/Leet/tree/master/0721-accounts-merge) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/d1e1v1234-dev/Leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/d1e1v1234-dev/Leet/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/d1e1v1234-dev/Leet/tree/master/3536-maximum-product-of-two-digits) |
