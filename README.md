@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/d1e1v1234-dev/Leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/d1e1v1234-dev/Leet/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/d1e1v1234-dev/Leet/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3731-find-missing-elements](https://github.com/d1e1v1234-dev/Leet/tree/master/3731-find-missing-elements) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/d1e1v1234-dev/Leet/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/d1e1v1234-dev/Leet/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/d1e1v1234-dev/Leet/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [3731-find-missing-elements](https://github.com/d1e1v1234-dev/Leet/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/d1e1v1234-dev/Leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/d1e1v1234-dev/Leet/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/d1e1v1234-dev/Leet/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/d1e1v1234-dev/Leet/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
