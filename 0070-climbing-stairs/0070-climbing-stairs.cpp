@@ -3,17 +3,15 @@ public:
     
     int climbStairs(int n) 
     {
-        if(n==1 || n ==2)return n;
-        vector<int> val(n+1,-1);
-        val[1] = 1; 
-        val[2] = 2; 
-        return climb(n-1,val) + climb(n-2,val);    
+        if(n==1 || n ==2) return n;
+        vector<int> dp(n+1);
+        dp[1] = 1; 
+        dp[2] = 2; 
+        for(int i=3;i<=n;i++)
+        {
+            dp[i] = dp[i-1] + dp[i-2];
+        }    
+        return dp[n];
     }
-    int climb(int n , vector<int>& val)
-    {
-        if(n==1 || n ==2)return n;
-        if(val[n] != -1 ) return val[n];
-        val[n] = climb(n-1,val) + climb(n-2,val); 
-        return val[n];
-    }
+    
 };
