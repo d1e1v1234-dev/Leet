@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/d1e1v1234-dev/Leet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/d1e1v1234-dev/Leet/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/d1e1v1234-dev/Leet/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/d1e1v1234-dev/Leet/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/d1e1v1234-dev/Leet/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/d1e1v1234-dev/Leet/tree/master/0200-number-of-islands) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/d1e1v1234-dev/Leet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/d1e1v1234-dev/Leet/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/d1e1v1234-dev/Leet/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/d1e1v1234-dev/Leet/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/d1e1v1234-dev/Leet/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/d1e1v1234-dev/Leet/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/d1e1v1234-dev/Leet/tree/master/0542-01-matrix) |
