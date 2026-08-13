@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/d1e1v1234-dev/Leet/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/d1e1v1234-dev/Leet/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/d1e1v1234-dev/Leet/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/d1e1v1234-dev/Leet/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/d1e1v1234-dev/Leet/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/d1e1v1234-dev/Leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/d1e1v1234-dev/Leet/tree/master/0721-accounts-merge) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/d1e1v1234-dev/Leet/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/d1e1v1234-dev/Leet/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/d1e1v1234-dev/Leet/tree/master/0721-accounts-merge) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/d1e1v1234-dev/Leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/d1e1v1234-dev/Leet/tree/master/0455-assign-cookies) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/d1e1v1234-dev/Leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Minimax
 |  |
@@ -243,4 +246,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/d1e1v1234-dev/Leet/tree/master/0416-partition-equal-subset-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/d1e1v1234-dev/Leet/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/d1e1v1234-dev/Leet/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
