@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/d1e1v1234-dev/Leet/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/d1e1v1234-dev/Leet/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/d1e1v1234-dev/Leet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/d1e1v1234-dev/Leet/tree/master/0064-minimum-path-sum) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/d1e1v1234-dev/Leet/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/d1e1v1234-dev/Leet/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/d1e1v1234-dev/Leet/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/d1e1v1234-dev/Leet/tree/master/0127-word-ladder) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/d1e1v1234-dev/Leet/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/d1e1v1234-dev/Leet/tree/master/0455-assign-cookies) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/d1e1v1234-dev/Leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Minimax
@@ -293,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/d1e1v1234-dev/Leet/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/d1e1v1234-dev/Leet/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/d1e1v1234-dev/Leet/tree/master/1143-longest-common-subsequence) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/d1e1v1234-dev/Leet/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
